@@ -13,13 +13,13 @@
 - Member 2: [Sreejith] - [College of Engineering Attingal]
 
 ### Project Description
-ThinkLess is a chaotic decision-making web app that gives hilariously random answers to your deepest life questions. Built with HTML, CSS, and JavaScript, it helps you stop thinking and start clicking
+Overthinkers Decision Helper is a chaotic decision-making web app that gives hilariously random answers to your deepest life questions. Built with HTML, CSS, and JavaScript, it helps you stop thinking and start clicking
 
 ### The Problem (that doesn't exist)
 People often overthink simple choices, wasting time and mental energy. ThinkLess solves this by delivering instant, absurd decisions—so you never have to think too hard again.
 
 ### The Solution (that nobody asked for)
-ThinkLess provides a lighthearted tool to ease decision fatigue by offering instant choices, helping users break overthinking loops in a fun and engaging way.
+Overthinkers Decision Helper provides a lighthearted tool to ease decision fatigue by offering instant choices, helping users break overthinking loops in a fun and engaging way.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -36,59 +36,38 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+- Git
+- GitHub
+- VSCode
 
 # Run
-[commands]
+- N/A - Just open index.html manually in any modern browser
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![alt text](index_ss.png)
+    This is our main HTML file! It structures the Overthinkers Decision Helper Website with input fields , a fun button , result display area and an audio element for sound effects. 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![alt text](styles_ss.png)
+    Here is our css style sheet! It brings playful visuals to life with gradient backgrounds , comic sans fonts , curved buttons and dynamic confidence bars.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![alt text](script_ss.png)
+    This javascript file powers the fake logic engine! It randomly picks decisions , generate silly reasons with sound effect and a 2 sec dramatic delay.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+<video controls src="Working_Demo.mp4" title="Title"></video>
+    This is a Working Demo of our meme project. It dramatically analyzes two user inputed choices using completely random logic , fake stats and then makes a decision that might not even be related to your options.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Saranya: html , javascript
+- Sreejith: css , git
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

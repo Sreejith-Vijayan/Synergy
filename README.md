@@ -36,23 +36,25 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+- Git
+- GitHub
+- VSCode
 
 # Run
-[commands]
+- N/A - Just open index.html manually in any modern browser
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![alt text](index_ss.png)
+    This is our main HTML file! It structures the Overthinkers Decision Helper Website with input fields , a fun button , result display area and an audio element for sound effects. 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![alt text](styles_ss.png)
+    Here is our css style sheet! It brings playful visuals to life with gradient backgrounds , comic sans fonts , curved buttons and dynamic confidence bars.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![alt text](script_ss.png)
+    This javascript file powers the fake logic engine! It randomly picks decisions , generate silly reasons with sound effect and a 2 sec dramatic delay.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -79,16 +81,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+<video controls src="Working_Demo.mp4" title="Title"></video>
+    This is a Working Demo of our meme project. It dramatically analyzes two user inputed choices using completely random logic , fake stats and then makes a decision that might not even be related to your options.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Saranya: html , javascript
+- Sreejith: css , git
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

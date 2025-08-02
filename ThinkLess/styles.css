@@ -1,20 +1,25 @@
-.body {
-  font-family: 'Comic Sans MS', cursive, sans-serif;
-  background-color: #6a15ba; /* pastel purple */
-  color: #2d2d2d;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  margin: 0;
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("Overthink.jpg") no-repeat center center fixed;
+    background-size: cover;
+    z-index: -1;
+    color: #2d2d2d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0; 
 }
 
 .container {
-  background: rgba(35, 22, 176, 0.88); /* translucent background for readability */
+  background: rgba(237, 219, 233, 0.88); /* translucent background for readability */
   padding: 30px;
   border-radius: 25px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  max-width: 500px;
+  max-width: 525px;
   text-align: center;
 }
 
@@ -22,13 +27,13 @@ input {
   width: 90%;
   margin: 10px 0;
   padding: 12px;
-  border: 2px dashed hotpink;
+  border: 2px dashed rgb(239, 185, 212);
   border-radius: 10px;
   font-size: 1rem;
 }
 
 button {
-  background: hotpink;
+  background: rgb(237, 30, 133);
   color: white;
   border: none;
   padding: 12px 25px;
@@ -58,8 +63,4 @@ button:hover {
 
 .hidden {
   display: none;
-}
-
-.stats{
-  color: #ff69b4;
 }

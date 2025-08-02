@@ -1,4 +1,4 @@
-body {
+.body {
   font-family: 'Comic Sans MS', cursive, sans-serif;
   background: linear-gradient(to right, #ff9a9e, #fad0c4);
   color: #2d2d2d;
@@ -58,4 +58,8 @@ button:hover {
 
 .hidden {
   display: none;
+}
+
+.stats{
+  color: #ff69b4;
 }

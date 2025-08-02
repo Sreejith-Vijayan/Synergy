@@ -36,10 +36,13 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+- Git
+- GitHub
+- VSCode
+- Figma
 
 # Run
-[commands]
+- N/A - Just open index.html manually in any modern browser
 
 ### Project Documentation
 For Software:

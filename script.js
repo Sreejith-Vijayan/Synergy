@@ -10,14 +10,10 @@ function makeDecision() {
     alert("Please enter two different options, you chaotic genius.");
     return;
   }
+setTimeout(() => {
+    document.getElementById("Soundeffect").play();
 
-  loader.style.display = "block";
-  resultBox.classList.add("hidden");
-
-  setTimeout(() => {
-    loader.style.display = "none";
-
-    const choices = [optionA, optionB, "neither", "both", "something entirely unexpected"];
+    const choices = [optionA, optionB, "neither", "both"];
     const reasons = [
       "was recommended by an emotional goldfish.",
       "resonates with the moon's gravitational mood.",

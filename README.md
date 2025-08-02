@@ -24,10 +24,9 @@ ThinkLess provides a lighthearted tool to ease decision fatigue by offering inst
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JAVASCRIPT
 
 For Hardware:
 - [List main components]

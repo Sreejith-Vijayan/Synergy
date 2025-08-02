@@ -13,21 +13,20 @@
 - Member 2: [Sreejith] - [College of Engineering Attingal]
 
 ### Project Description
-[2-3 lines about what your project does]
+ThinkLess is a chaotic decision-making web app that gives hilariously random answers to your deepest life questions. Built with HTML, CSS, and JavaScript, it helps you stop thinking and start clicking
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People often overthink simple choices, wasting time and mental energy. ThinkLess solves this by delivering instant, absurd decisions—so you never have to think too hard again.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+ThinkLess provides a lighthearted tool to ease decision fatigue by offering instant choices, helping users break overthinking loops in a fun and engaging way.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JAVASCRIPT
 
 For Hardware:
 - [List main components]

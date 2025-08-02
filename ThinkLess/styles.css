@@ -1,6 +1,6 @@
 .body {
   font-family: 'Comic Sans MS', cursive, sans-serif;
-  background: linear-gradient(to right, #ff9a9e, #fad0c4);
+  background-color: #6a15ba; /* pastel purple */
   color: #2d2d2d;
   display: flex;
   justify-content: center;
@@ -10,7 +10,7 @@
 }
 
 .container {
-  background: white;
+  background: rgba(35, 22, 176, 0.88); /* translucent background for readability */
   padding: 30px;
   border-radius: 25px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
